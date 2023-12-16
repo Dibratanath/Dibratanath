@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dibrata Nath</h1>
 <h3 align="center">A passionate software engineer from Bangladash</h3>
 
-<img align="right"alt="coding"width="400"src= "![image](https://github.com/Dibratanath/Dibratanath/assets/109606177/950eca3f-f234-4561-b261-6e5a10a8566e)
-">
+
 
 
 
